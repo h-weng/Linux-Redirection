@@ -3,7 +3,7 @@ Five minute lesson on Linux Redirection
 
 ### What is Redirection?
 
-Redirection is a fundamental concept in Linux that enables you to control where commands obtain their input and where they direct their output. By default, when you run a command in Ubuntu, it reads input from the keyboard (stdin) and displays output on the terminal screen (stdout). Redirection allows you to modify this behavior to read from files, write to files, or execute commands in sequence.
+Redirection is a fundamental concept in Linux that enables you to control where commands obtain their input and where they direct their output. By default, when you run a command in Linux, it reads input from the keyboard (stdin) and displays output on the terminal screen (stdout). Redirection allows you to modify this behavior to read from files, write to files, or execute commands in sequence.
 
 ### The Three Standard Streams
 Ubuntu uses three standard data streams for every command:
