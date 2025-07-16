@@ -17,7 +17,7 @@ stderr | Standard error (screen) | 2 |
 ### Basic Redirection Operators
 
 #### Output Redirection (>)
-The > oeperator redirects standard output to a file (overwrites existing files):
+The > operator redirects standard output to a file (overwrites existing files):
 ```bash
 #Save directory listing to a file
 ls -l > ls_ouptut.txt
