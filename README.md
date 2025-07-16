@@ -89,7 +89,7 @@ command 2> /dev/null
 command > /dev/null 2>&1
 ```
 #### The tee Command
-tee displays output on screen and saves it to a file simultaneously:
+tee displays output on screen and saves to a file simultaneously:
 ```bash
 # Display and save output
 ls -l | tee directory.txt
