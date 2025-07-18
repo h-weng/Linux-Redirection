@@ -1,4 +1,4 @@
-# Linux-Redirection
+# Linux Redirection
 Five minute lesson on Linux Redirection
 
 ### What is Redirection?
